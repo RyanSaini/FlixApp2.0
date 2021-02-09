@@ -15,7 +15,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [ ] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
 
 ### App Walkthrough GIF
-<img src= "https://recordit.co/1q2HGrnGCo" width=250><br>
+<img src= "http://g.recordit.co/1q2HGrnGCo.gif" width=250><br>
 
 ### Notes
 Had errors using the same repos from the previous assignment so i just made a new one. Gif from imgur not saving, here is URL.
